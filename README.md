@@ -105,6 +105,22 @@ This project proves hands-on skills in:
 
 ---
 
+## 📸 Screenshots
+
+### Live Website
+![Live Website](screenshots/live-site.png)
+
+### EC2 Instance Running
+![EC2 Running](screenshots/ec2-running.png)
+
+### Instance Details
+![EC2 Details](screenshots/ec2-details.png)
+
+### SSH & Nginx Verification
+![SSH Proof](screenshots/ssh-nginx.png)
+
+---
+
 ## 👤 Author
 
 **Krishna Sharma**  
