@@ -7,7 +7,11 @@ It covers instance provisioning, secure access, Linux server configuration, and 
 
 ## 🔗 Live Demo
 
-👉 http://13.203.227.127
+👉 **EC2 Web Server (Production):**  
+  http://13.203.227.127
+
+👉 **GitHub Pages (Static Preview):**  
+  https://krishnash648.github.io/aws-ec2-linux-web-server/
 
 ---
 
